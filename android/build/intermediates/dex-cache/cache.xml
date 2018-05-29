@@ -1,0 +1,923 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mohammed Sabry\pickup2\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="C:\Users\Mohammed Sabry\pickup2\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.3.0_22b126f8908f49fa8b4054bfe22ab48eebe30c6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\pickup2\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="E:\pickup2\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_c20fb5803fc6744763bfd6a88ca5cd6c5cb93a63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\pickup2\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="F:\pickup2\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_4180706a0058e2312c321657011f799dd5cc9d8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\test\pickUp-83d3bc119272a754481aaa67daba0e3875edcc66\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="F:\test\pickUp-83d3bc119272a754481aaa67daba0e3875edcc66\android\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_581a1a1d5d4fda2667edf8171ce801117db52368.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\pickup2\android\app\build\intermediates\exploded-aar\pickup\react-native-vector-icons\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="279750fed3c920d06351dbf32889c1b48203c7ad">
+        <dex dex="F:\pickup2\android\app\build\intermediates\pre-dexed\debug\pickup-react-native-vector-icons-unspecified_b3b383ad04033d5c9f6a1ba8bcb44e0925bbb4ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\test\pickUp-83d3bc119272a754481aaa67daba0e3875edcc66\android\app\build\intermediates\exploded-aar\pickup\react-native-geocoder\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ae91e4c5567a33a1e23ea6514c37b65c589b39ca">
+        <dex dex="F:\test\pickUp-83d3bc119272a754481aaa67daba0e3875edcc66\android\app\build\intermediates\pre-dexed\debug\pickup-react-native-geocoder-unspecified_3fa2eb650b11ac192f4af0bd2eb40e993bb32ee1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\test\pickUp-83d3bc119272a754481aaa67daba0e3875edcc66\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="F:\test\pickUp-83d3bc119272a754481aaa67daba0e3875edcc66\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_f7f783f2865bed8d496a1c857fadcfe5e689f904.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mohammed Sabry\pickup2\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.2.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dd1d0d84da2cff18f741c63a9c3af7d9aa89fdd6">
+        <dex dex="C:\Users\Mohammed Sabry\pickup2\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-10.2.4_37bbccdf56e5cad94831d7b9ac3355aff204796e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\pickup2\android\app\build\intermediates\exploded-aar\pickup\react-native-google-places\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6688aadc5f281c8381f0222a363b74b85d705d09">
+        <dex dex="F:\pickup2\android\app\build\intermediates\pre-dexed\debug\pickup-react-native-google-places-unspecified_e42741f911c30bb83781845361c0b127ef37a569.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\test\pickUp-83d3bc119272a754481aaa67daba0e3875edcc66\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="F:\test\pickUp-83d3bc119272a754481aaa67daba0e3875edcc66\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.3.0_f3b19284ef58a4b87d7f266fc980aa81f79396b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\pickup2\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="F:\pickup2\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.3.0_56a05a5e4e994fef91c98aa6d9719e499bbd5d18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\test\pickUp-83d3bc119272a754481aaa67daba0e3875edcc66\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="F:\test\pickUp-83d3bc119272a754481aaa67daba0e3875edcc66\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_f6cd9b0871b71a862a74c99ddc828eb1951df520.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\pickup2\android\app\build\intermediates\exploded-aar\pickup\react-native-geocoder\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ae91e4c5567a33a1e23ea6514c37b65c589b39ca">
+        <dex dex="F:\pickup2\android\app\build\intermediates\pre-dexed\debug\pickup-react-native-geocoder-unspecified_04d4bc106c925fc076664c7175520f02292417d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mohammed Sabry\pickup2\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="C:\Users\Mohammed Sabry\pickup2\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_3ee22e6f5ae07fb13fe5dbd9a8c564ccf476e33e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\pickup2\android\app\build\intermediates\exploded-aar\pickup\react-native-google-places\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6688aadc5f281c8381f0222a363b74b85d705d09">
+        <dex dex="E:\pickup2\android\app\build\intermediates\pre-dexed\debug\pickup-react-native-google-places-unspecified_bb4d92fff97455c5fff5306ec432af1a09f4191e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mohammed Sabry\pickup2\android\app\build\intermediates\exploded-aar\pickup\react-native-google-places\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6688aadc5f281c8381f0222a363b74b85d705d09">
+        <dex dex="C:\Users\Mohammed Sabry\pickup2\android\app\build\intermediates\pre-dexed\debug\pickup-react-native-google-places-unspecified_1bfe01ac971fe88e48f1d299971fd4e25b126bec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\test\pickUp-83d3bc119272a754481aaa67daba0e3875edcc66\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="F:\test\pickUp-83d3bc119272a754481aaa67daba0e3875edcc66\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.3.0_1d904f753b2f13098a645bdea1b5d25b61ffe021.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\pickup2\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="F:\pickup2\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.3.0_1a31bbdb58d0e59606ffc2a834bbd1e64c99e986.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\pickup2\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\10.2.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6c8a4af7cf76d958c76ed7682f39e4b386b69305">
+        <dex dex="E:\pickup2\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-places-10.2.4_dcb184278aa65ed1e97457201ff75533316feff6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\test\pickUp-83d3bc119272a754481aaa67daba0e3875edcc66\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="F:\test\pickUp-83d3bc119272a754481aaa67daba0e3875edcc66\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.3.0_84865230745a557792c333627c11dae5494cc87d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mohammed Sabry\pickup2\android\app\build\intermediates\exploded-aar\pickup\react-native-vector-icons\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="279750fed3c920d06351dbf32889c1b48203c7ad">
+        <dex dex="C:\Users\Mohammed Sabry\pickup2\android\app\build\intermediates\pre-dexed\debug\pickup-react-native-vector-icons-unspecified_89c19d7d9be8ff79da569abd9ad33abba6983434.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\test\pickUp-83d3bc119272a754481aaa67daba0e3875edcc66\android\app\build\intermediates\exploded-aar\com.google.maps.android\android-maps-utils\0.3.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf251baf39f5c5138224b67b4106eb6331abbd13">
+        <dex dex="F:\test\pickUp-83d3bc119272a754481aaa67daba0e3875edcc66\android\app\build\intermediates\pre-dexed\debug\com.google.maps.android-android-maps-utils-0.3.4_c7ab9368da4ef160dd1c841df46db33051b1062f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\pickup2\android\app\build\intermediates\exploded-aar\pickup\react-native-geocoder\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ae91e4c5567a33a1e23ea6514c37b65c589b39ca">
+        <dex dex="E:\pickup2\android\app\build\intermediates\pre-dexed\debug\pickup-react-native-geocoder-unspecified_86ad96e59c98d9d7baa355b29d54215406c31bc1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mohammed Sabry\pickup2\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\Mohammed Sabry\pickup2\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_8b1fa91a247f11c1998ac7b97dcbc11bb7719829.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\pickup2\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.50.3\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="E:\pickup2\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_b626ec3754c43d77d882d33bcbf1ee8c10ca547d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mohammed Sabry\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\Mohammed Sabry\pickup2\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_7d7c9384734069ce9a614e6382c4df8fccb878fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mohammed Sabry\pickup2\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="C:\Users\Mohammed Sabry\pickup2\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.3.0_aa7dc0c2abc0237be28639c654545b179328e398.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\pickup2\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="F:\pickup2\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_ac93015a04d21928e2bca2c0af960e3788f9b628.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\test\pickUp-83d3bc119272a754481aaa67daba0e3875edcc66\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.55.3\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="F:\test\pickUp-83d3bc119272a754481aaa67daba0e3875edcc66\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_24795a78f423916152dc17574ac2fda787fd5e27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\test\pickUp-83d3bc119272a754481aaa67daba0e3875edcc66\android\app\build\intermediates\exploded-aar\com.airbnb.android\react-native-maps\0.13.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f128b05415dc03749c39e8883eac0d274a22e2a6">
+        <dex dex="F:\test\pickUp-83d3bc119272a754481aaa67daba0e3875edcc66\android\app\build\intermediates\pre-dexed\debug\com.airbnb.android-react-native-maps-0.13.1_af07bb365c59dc8d5f09c626edae6e934fcd9c70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\pickup2\android\app\build\intermediates\exploded-aar\pickup\react-native-vector-icons\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="279750fed3c920d06351dbf32889c1b48203c7ad">
+        <dex dex="E:\pickup2\android\app\build\intermediates\pre-dexed\debug\pickup-react-native-vector-icons-unspecified_6dd6f9f8572abf9a0e51b229ea13819ebb20cb3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\test\pickUp-83d3bc119272a754481aaa67daba0e3875edcc66\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="F:\test\pickUp-83d3bc119272a754481aaa67daba0e3875edcc66\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.3.0_bca74df56b058fd339138971ef1e78575f274d92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mohammed Sabry\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="C:\Users\Mohammed Sabry\pickup2\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_486b8836202a238bcae6a50ab3cf70494afcc3ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mohammed Sabry\pickup2\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\Mohammed Sabry\pickup2\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_9a37d1ed441b8692f864d2441111ec4ca178210e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mohammed Sabry\pickup2\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.2.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6d0d5e86f5b7203834df01ed78ebfdd5cbf74d48">
+        <dex dex="C:\Users\Mohammed Sabry\pickup2\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-10.2.4_9bca3ac25b2de652c349ac11439d0fed7e1a0f28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\pickup2\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.2.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dd1d0d84da2cff18f741c63a9c3af7d9aa89fdd6">
+        <dex dex="F:\pickup2\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-10.2.4_540fca781c8985465aa83127b3f74fa65b3e069f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\test\pickUp-83d3bc119272a754481aaa67daba0e3875edcc66\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.55.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="01f201f8a16c7438c9ee4c56139d01663f2cb0e4">
+        <dex dex="F:\test\pickUp-83d3bc119272a754481aaa67daba0e3875edcc66\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.55.3_1dea827bd81dc67fbae3ee7aa1e50b0c0872db3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\pickup2\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.50.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="24303e5ddb2c1210dd7e8db9dbab018f50313e48">
+        <dex dex="E:\pickup2\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.50.3_41b04819c929893813d1269fc57b9abad9dc0b6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mohammed Sabry\pickup2\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.2.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5803db663655ef5cb38c6bcb17ba326fdb9edfbd">
+        <dex dex="C:\Users\Mohammed Sabry\pickup2\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.2.4_a726f0699d924eda9f6ad02b22eb4ac4314b51a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mohammed Sabry\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="C:\Users\Mohammed Sabry\pickup2\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_08dbd5da96bd4ae6d504b08a34fb88c3af6800cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\pickup2\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="E:\pickup2\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.3.0_adc1f0d031aea1e6995a99fe63d2cd9686f4fa77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\pickup2\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="E:\pickup2\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_e088e86dc7da061d3c193f8d16214e1a0e18ca9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\test\pickUp-83d3bc119272a754481aaa67daba0e3875edcc66\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="F:\test\pickUp-83d3bc119272a754481aaa67daba0e3875edcc66\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_2e5a25fd1a075a941c07077c39fdddcede6ca95f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\pickup2\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="E:\pickup2\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.3.0_ad647569d6d080b5c2c2fc2ed95e6f1c4b95bd46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\test\pickUp-83d3bc119272a754481aaa67daba0e3875edcc66\android\app\build\intermediates\exploded-aar\pickup\react-native-vector-icons\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="279750fed3c920d06351dbf32889c1b48203c7ad">
+        <dex dex="F:\test\pickUp-83d3bc119272a754481aaa67daba0e3875edcc66\android\app\build\intermediates\pre-dexed\debug\pickup-react-native-vector-icons-unspecified_218165f5c59064ded9862de0cbf623e79fd9ac0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\pickup2\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="F:\pickup2\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_8ed076ada957fadec5454d5777e040a4e13d588a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\pickup2\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="E:\pickup2\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_7f94730df30c20287190992a3772d339464863a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\pickup2\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.55.3\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="F:\pickup2\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_161f85eed2d203c6a553f9e406faaee470c268ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\pickup2\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\10.2.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6c8a4af7cf76d958c76ed7682f39e4b386b69305">
+        <dex dex="F:\pickup2\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-places-10.2.4_de8f5248543fa059d31ee51259ebde22f3df87a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mohammed Sabry\pickup2\android\app\build\intermediates\exploded-aar\com.google.maps.android\android-maps-utils\0.3.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf251baf39f5c5138224b67b4106eb6331abbd13">
+        <dex dex="C:\Users\Mohammed Sabry\pickup2\android\app\build\intermediates\pre-dexed\debug\com.google.maps.android-android-maps-utils-0.3.4_569c8ffd5325a72e80b6e1a4b35a62aa0b2f2849.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\test\pickUp-83d3bc119272a754481aaa67daba0e3875edcc66\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="F:\test\pickUp-83d3bc119272a754481aaa67daba0e3875edcc66\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.3.0_bdbf8ea3f7fb5251d4573abf9eb29d6de23dfe60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\pickup2\android\app\build\intermediates\exploded-aar\com.airbnb.android\react-native-maps\0.13.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f128b05415dc03749c39e8883eac0d274a22e2a6">
+        <dex dex="F:\pickup2\android\app\build\intermediates\pre-dexed\debug\com.airbnb.android-react-native-maps-0.13.1_0502084b8ad37b96ff76047a5042ebb2bc730648.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\pickup2\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="E:\pickup2\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.3.0_1bb49970b45279dd8d2ce147db03dc53da892b02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mohammed Sabry\pickup2\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.2.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9ed08fab37c3a572da1d9ed2bf2e36c8d3e2bc48">
+        <dex dex="C:\Users\Mohammed Sabry\pickup2\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.2.4_e5ef073498409d23642110928ee1927f3cd54251.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\test\pickUp-83d3bc119272a754481aaa67daba0e3875edcc66\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\10.2.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6c8a4af7cf76d958c76ed7682f39e4b386b69305">
+        <dex dex="F:\test\pickUp-83d3bc119272a754481aaa67daba0e3875edcc66\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-places-10.2.4_05164b44498940dd2b90f649862d78d40d60c019.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\test\pickUp-83d3bc119272a754481aaa67daba0e3875edcc66\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.2.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6d0d5e86f5b7203834df01ed78ebfdd5cbf74d48">
+        <dex dex="F:\test\pickUp-83d3bc119272a754481aaa67daba0e3875edcc66\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-10.2.4_c12bd1b4e1bb7785d24b40483372d927dd474791.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\pickup2\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="E:\pickup2\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.3.0_4fc8481e23cbc5aa730a18578291116d94bf23a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mohammed Sabry\pickup2\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\Mohammed Sabry\pickup2\android\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_a28ebaa99553aab41a8501660fc1484b9fa1d30a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\test\pickUp-83d3bc119272a754481aaa67daba0e3875edcc66\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.2.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7e0f082141b7aa90aab5d3a47ab09b0edc958f6b">
+        <dex dex="F:\test\pickUp-83d3bc119272a754481aaa67daba0e3875edcc66\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-10.2.4_3116a00a15bf6b106b4b51f1296213cbc331fc35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\test\pickUp-83d3bc119272a754481aaa67daba0e3875edcc66\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="F:\test\pickUp-83d3bc119272a754481aaa67daba0e3875edcc66\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.3.0_7ff7244734093181f70a38f62e9db687b7efb71b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\test\pickUp-83d3bc119272a754481aaa67daba0e3875edcc66\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.2.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5803db663655ef5cb38c6bcb17ba326fdb9edfbd">
+        <dex dex="F:\test\pickUp-83d3bc119272a754481aaa67daba0e3875edcc66\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.2.4_b36b01bd9a4f15a07d5154f0ebcd50b0cc690839.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\pickup2\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="E:\pickup2\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.3.0_97e7d94f38c5df29b6eac8303457a07c21f3972f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\pickup2\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.2.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5803db663655ef5cb38c6bcb17ba326fdb9edfbd">
+        <dex dex="F:\pickup2\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.2.4_f6f309c1faa833075577c86ab6fbe700295af8e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mohammed Sabry\pickup2\android\app\build\intermediates\exploded-aar\pickup\react-native-geocoder\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ae91e4c5567a33a1e23ea6514c37b65c589b39ca">
+        <dex dex="C:\Users\Mohammed Sabry\pickup2\android\app\build\intermediates\pre-dexed\debug\pickup-react-native-geocoder-unspecified_1658dfcf37b558f8d02920c90ab5ec81ada533ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mohammed Sabry\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="F:\pickup2\android\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_017349d6a15ad60e8c23f4025218ead79ddd1e77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mohammed Sabry\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\Mohammed Sabry\pickup2\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_874ffbb7244495700f3ed33f7610edfcddd319b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\pickup2\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="F:\pickup2\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.3.0_00d3dee50f0ded3d441e34ddc71f29b270deab2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mohammed Sabry\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="C:\Users\Mohammed Sabry\pickup2\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_21fff4b7b217ab1700688248240dae733f73656c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mohammed Sabry\pickup2\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="C:\Users\Mohammed Sabry\pickup2\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_11969d55e37cc365db569af1729ee9f82bb3083c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\pickup2\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.55.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="01f201f8a16c7438c9ee4c56139d01663f2cb0e4">
+        <dex dex="F:\pickup2\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.55.3_995461249afc54548d063bbf2a0488afe84c34a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\pickup2\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="F:\pickup2\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.3.0_fb9575561a5fc66e406937b347e9a0c2b46c6fcf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\pickup2\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="F:\pickup2\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.3.0_df9979548dd231b7391f2f49dfd2e8561802c2dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\test\pickUp-83d3bc119272a754481aaa67daba0e3875edcc66\android\app\build\intermediates\exploded-aar\pickup\react-native-google-places\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6688aadc5f281c8381f0222a363b74b85d705d09">
+        <dex dex="F:\test\pickUp-83d3bc119272a754481aaa67daba0e3875edcc66\android\app\build\intermediates\pre-dexed\debug\pickup-react-native-google-places-unspecified_a3d7a37f4dc50f309dab489e2c475ae8da157c34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mohammed Sabry\pickup2\android\app\build\intermediates\exploded-aar\com.airbnb.android\react-native-maps\0.13.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f128b05415dc03749c39e8883eac0d274a22e2a6">
+        <dex dex="C:\Users\Mohammed Sabry\pickup2\android\app\build\intermediates\pre-dexed\debug\com.airbnb.android-react-native-maps-0.13.1_2b581ccdde8c81cd453d58fd93d5e48d96c479bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\pickup2\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="F:\pickup2\android\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_123140c5eadc9f9ef51cf06d9442533c83c00109.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\pickup2\android\app\build\intermediates\exploded-aar\com.google.maps.android\android-maps-utils\0.3.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf251baf39f5c5138224b67b4106eb6331abbd13">
+        <dex dex="E:\pickup2\android\app\build\intermediates\pre-dexed\debug\com.google.maps.android-android-maps-utils-0.3.4_72b02475ea087594a715eaa1198fc46150b7c60c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\pickup2\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.2.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9ed08fab37c3a572da1d9ed2bf2e36c8d3e2bc48">
+        <dex dex="E:\pickup2\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.2.4_4d798ae6a4cb997dd11015648d510214a4a1671c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mohammed Sabry\pickup2\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.2.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7e0f082141b7aa90aab5d3a47ab09b0edc958f6b">
+        <dex dex="C:\Users\Mohammed Sabry\pickup2\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-10.2.4_0d8d0b339e5a752f9c1276dac8943252fb920c5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\test\pickUp-83d3bc119272a754481aaa67daba0e3875edcc66\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="F:\test\pickUp-83d3bc119272a754481aaa67daba0e3875edcc66\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_03ca943dcae0618fd686267d8a2ec1a5ed92788c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\pickup2\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.2.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7e0f082141b7aa90aab5d3a47ab09b0edc958f6b">
+        <dex dex="E:\pickup2\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-10.2.4_ad69f1f0c576306bb5ac553e8b3fa789d706a195.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mohammed Sabry\pickup2\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="C:\Users\Mohammed Sabry\pickup2\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.3.0_8c2b2aa922716962ae397f6c37d99ab4b70fa589.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mohammed Sabry\pickup2\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="C:\Users\Mohammed Sabry\pickup2\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.3.0_a03b383a4d69f1819e905314fc96acae76bd388c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\pickup2\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="F:\pickup2\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.3.0_085c141d32d8defc8dc732bdb622ce7874008e9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\pickup2\android\app\build\intermediates\exploded-aar\com.google.maps.android\android-maps-utils\0.3.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf251baf39f5c5138224b67b4106eb6331abbd13">
+        <dex dex="F:\pickup2\android\app\build\intermediates\pre-dexed\debug\com.google.maps.android-android-maps-utils-0.3.4_08ea171a81f0291dd372e02dd17da699f22df871.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\pickup2\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.2.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9ed08fab37c3a572da1d9ed2bf2e36c8d3e2bc48">
+        <dex dex="F:\pickup2\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.2.4_a5efa2c48518267152d7380cbfd3b9f958f51660.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mohammed Sabry\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="C:\Users\Mohammed Sabry\pickup2\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_ad8a57cc1d4beb37207cce7b232d8dbb52a10fdb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\pickup2\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="F:\pickup2\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_ded2f3a117a5e7db56d15e3869701cd671e96f71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\pickup2\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.2.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6d0d5e86f5b7203834df01ed78ebfdd5cbf74d48">
+        <dex dex="F:\pickup2\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-10.2.4_37d3818478d559931e2a95943672e2aabe6124cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\pickup2\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.2.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dd1d0d84da2cff18f741c63a9c3af7d9aa89fdd6">
+        <dex dex="E:\pickup2\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-10.2.4_c09477ba4b22d4df13f78b73864d4fa14d88103c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\pickup2\android\app\build\intermediates\exploded-aar\com.airbnb.android\react-native-maps\0.13.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f128b05415dc03749c39e8883eac0d274a22e2a6">
+        <dex dex="E:\pickup2\android\app\build\intermediates\pre-dexed\debug\com.airbnb.android-react-native-maps-0.13.1_9448fe27d30bafeb89aa3a5f03268a5aeab7a518.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\test\pickUp-83d3bc119272a754481aaa67daba0e3875edcc66\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.2.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dd1d0d84da2cff18f741c63a9c3af7d9aa89fdd6">
+        <dex dex="F:\test\pickUp-83d3bc119272a754481aaa67daba0e3875edcc66\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-10.2.4_295fb4834c61a6a521e80c4e1c86baa915cb80d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mohammed Sabry\pickup2\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="C:\Users\Mohammed Sabry\pickup2\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.3.0_6c38675c1cfdbf7ff2c9844e1e52ed4e4b00b7bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\test\pickUp-83d3bc119272a754481aaa67daba0e3875edcc66\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.2.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9ed08fab37c3a572da1d9ed2bf2e36c8d3e2bc48">
+        <dex dex="F:\test\pickUp-83d3bc119272a754481aaa67daba0e3875edcc66\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.2.4_77d083e4e760133a48a0e2c126acb255399ac1e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\pickup2\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="E:\pickup2\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.3.0_ab760f690f511fc030395ed96d0442608649f235.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\pickup2\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="E:\pickup2\android\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_0b821af301ae8a5615a7e38f10f94fb1e1d29482.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\pickup2\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.2.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6d0d5e86f5b7203834df01ed78ebfdd5cbf74d48">
+        <dex dex="E:\pickup2\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-10.2.4_29c4dd7ef61c6830e7587d9b7aa454b5f1d347a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mohammed Sabry\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="C:\Users\Mohammed Sabry\pickup2\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_88d061ec458ab4cb96ec613ac7588f9e83273e95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mohammed Sabry\pickup2\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="C:\Users\Mohammed Sabry\pickup2\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.3.0_bfd9a9ee1c4cfc1a09916bf639c01fd677ebf225.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\pickup2\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.2.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5803db663655ef5cb38c6bcb17ba326fdb9edfbd">
+        <dex dex="E:\pickup2\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.2.4_db538cda76e51b1e6d7197c4847d4fde6c2293dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\pickup2\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="E:\pickup2\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_d47bc8b6e8319ba5165ac32713d828b7477a9ea2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\pickup2\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.2.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7e0f082141b7aa90aab5d3a47ab09b0edc958f6b">
+        <dex dex="F:\pickup2\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-10.2.4_93e07627fe1047f6d487e32bf2ea08285236900d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mohammed Sabry\pickup2\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\10.2.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6c8a4af7cf76d958c76ed7682f39e4b386b69305">
+        <dex dex="C:\Users\Mohammed Sabry\pickup2\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-places-10.2.4_1be13182d6e44a82dffbe51c3fbfc5f22165807d.jar" />
+    </item>
+
+</items>

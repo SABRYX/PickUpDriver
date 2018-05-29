@@ -1,0 +1,4 @@
+#Tue May 29 03:24:31 EET 2018
+base.0=F\:\\test\\pickUp-83d3bc119272a754481aaa67daba0e3875edcc66\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=F\:\\test\\pickUp-83d3bc119272a754481aaa67daba0e3875edcc66\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

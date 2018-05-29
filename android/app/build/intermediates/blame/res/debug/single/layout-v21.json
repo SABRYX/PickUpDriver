@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\10.2.4\\res\\layout-v21\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "F:\\pickup2\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "F:\\pickup2\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\10.2.4\\res\\layout-v21\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "F:\\test\\pickUp-83d3bc119272a754481aaa67daba0e3875edcc66\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "F:\\test\\pickUp-83d3bc119272a754481aaa67daba0e3875edcc66\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\10.2.4\\res\\layout-v21\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "F:\\pickupdriver\\pickupdriver\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "F:\\pickupdriver\\pickupdriver\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\10.2.4\\res\\layout-v21\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "E:\\pickup2\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "E:\\pickup2\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\10.2.4\\res\\layout-v21\\place_autocomplete_fragment.xml"
+    }
+]

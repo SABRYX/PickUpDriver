@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Mohammed Sabry\\pickup\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "C:\\Users\\Mohammed Sabry\\pickup\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.50.3\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "C:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.50.3\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "E:\\pickup2\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "E:\\pickup2\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.50.3\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "F:\\test\\pickUp-83d3bc119272a754481aaa67daba0e3875edcc66\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "F:\\test\\pickUp-83d3bc119272a754481aaa67daba0e3875edcc66\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.55.3\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "F:\\pickup2\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "F:\\pickup2\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.55.3\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "F:\\pickupdriver\\pickupdriver\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "F:\\pickupdriver\\pickupdriver\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.55.3\\res\\xml\\preferences.xml"
+    }
+]
